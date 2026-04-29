@@ -1,19 +1,19 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #000;
-  color: #fff;
+  background-color: #4d0d0d;
+  color: #640808;
 }
 
 header {
   text-align: center;
   padding: 20px;
-  border-bottom: 1px solid #1f3d2b;
+  border-bottom: 1px solid #310505;
 }
 
 .logo {
   font-family: 'Pacifico', cursive;
-  color: #d4af37;
+  color: #e2e0da;
   font-size: 40px;
 }
 
@@ -23,10 +23,10 @@ header {
 }
 
 .post {
-  background-color: #0f1f16;
+  background-color: #f8f8f8;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 0 10px #0f1f16;
+  box-shadow: 0 0 10px #1f0f0f;
 }
 
 .post-header {
